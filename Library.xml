@@ -1,0 +1,76 @@
+<library>
+    <location>Alexandria</location>
+    <description>The perfect place for book lovers</description>
+    <librarian>Maryam Salah</librarian>
+
+    <books>
+        <book>
+            <title>Introduction to Data Analysis</title>
+            <ISBN>12345</ISBN>
+            <author>The Author</author>
+            <preface>This book introduces data Analysis concepts and practices</preface>
+
+            <parts>
+                <part>
+                    <title>Part 1: Fundamentals</title>
+                    <chapters>
+                        <chapter>
+                            <title>Chapter 1: What is Data Analysis?</title>
+                            <summary>An overview of data Analysis</summary>
+                            <sections>
+                                <paragraph>Paragragh 1</paragraph>
+                                <paragraph>Paragragh 2</paragraph>
+                            </sections>
+                        </chapter>
+
+                        <chapter>
+                            <title>Chapter 2: Tools and Technologies</title>
+                            <summary>This chapter explores Data Analysis tools</summary>
+                            <sections>
+                                <paragraph>Paragragh 1</paragraph>
+                                <paragraph>Paragragh 2</paragraph>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+
+                <part>
+                    <title>Part 2: Applications</title>
+                    <chapters>
+                        <chapter>
+                            <title>Chapter 3: Real World Use Cases</title>
+                            <summary>This chapter presents applications of data Analysis</summary>
+                            <sections>
+                                <paragraph>Paragragh1</paragraph>
+                                <paragraph>Paragragh 2</paragraph>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+
+        <book>
+            <title>Introduction to Power BI</title>
+            <ISBN>56789</ISBN>
+            <author>The Author</author>
+            <prerace>A guide to Power BI.</prerace>
+
+            <parts>
+                <part>
+                    <title>Part 1: Concepts</title>
+                    <chapters>
+                        <chapter>
+                            <title>Chapter 1: User Interface</title>
+                            <summary>Explains the Application Interface.</summary>
+                            <sections>
+                                <paragraph>Paragragh1</paragraph>
+                                <paragraph>paragragh2</paragraph>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+    </books>
+</library>
